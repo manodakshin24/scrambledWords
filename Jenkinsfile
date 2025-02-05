@@ -12,7 +12,7 @@ pipeline {
             steps {
                 // Run the Python script
                 sh 'echo "Running the Python script..."'
-                sh 'python scrambledWords.py' // Replace with the actual script name if different
+                sh 'python scrambledWordScript.py' // Replace with the actual script name if different
             }
         }
     }
