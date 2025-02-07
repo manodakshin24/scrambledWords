@@ -5,7 +5,7 @@ import time
 words = {
     "Beginner": ["apple", "banana", "cat", "dog", "elephant", "fish", "grape", "hat", "ice", "juice", "kite", "lion", "monkey", "nest", "orange"],
     "Intermediate": ["bicycle", "camera", "dolphin", "guitar", "jungle", "kangaroo", "laptop", "mountain", "ocean", "piano", "rabbit", "snake", "tiger", "umbrella", "violin"],
-    "Advanced": ["astronomy", "biology", "chemistry", "dinosaur", "electricity", "geography", "history", "jupiter", "kaleidoscope", "lightning", "mathematics", "neptune", "oxygen", "planet", "quasar"],
+    "Advanced": ["astronomy", "healthcare", "chemistry", "dinosaur", "electricity", "geography", "history", "jupiter", "kaleidoscope", "lightning", "mathematics", "neptune", "oxygen", "planet", "quasar"],
     "Expert": ["algorithm", "biotechnology", "cryptography", "differential", "electromagnetic", "fluorescence", "gravitational", "holography", "isotope", "kinematics", "logarithm", "nanotechnology", "oscilloscope", "paleontology", "quantum"]
 }
 
